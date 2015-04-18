@@ -1,0 +1,57 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#map-canvas
+{
+  height: 100%;
+  width: 100%;
+}
+
+/*** Map info window ***/
+
+.locationContent
+{
+  color: #333;
+  font-family: Georgia, Arial;
+  margin: 10px 0 10px 10px;
+}
+
+.locationContent h2
+{
+  color: #6432FA;
+  font-size: 1.9em;
+  font-weight: normal;
+  margin: 0 0 5px 0;
+}
+
+.locationContent h3
+{
+  margin: 0 0 10px 0;
+  font-size: 1.1em;
+}
+
+.locationContent p
+{
+  font-size: 1.4em;
+  margin: 15px 0 10px 0;
+}
+
+.locationContent a
+{
+  color: #FA7800;
+}
+
+.locationContent a:hover
+{
+  color: #FF5A00;
+}
+
+.locationContent img
+{
+  max-width: 100%;
+}
