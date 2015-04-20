@@ -9,7 +9,7 @@ Live example as a wordpress plugin http://hannahollstrom.se/travels/map/
 ```html
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=REPLACE_WITH_GOOGLE_MAPS_API_KEY"></script>
 ```
-More info here https://developers.google.com/maps/
+If you don't have a Google Maps API key you can get one here https://developers.google.com/maps/
 ### 2. Include the HHRouteMap script in your project.
 ```html
 <script type="text/javascript" src="js/HHRouteMap.js"></script>
